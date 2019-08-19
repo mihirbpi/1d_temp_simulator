@@ -4,8 +4,8 @@ function setup() {
   /* Setup the animation */
   points_array = [];
   temp_array = [];
-  num_points = 10;
-  alpha = 0.05;
+  num_points = 30;
+  alpha = 0.15;
   frame_rate = 10;
 
   for(var i=0; i<num_points; i++){
